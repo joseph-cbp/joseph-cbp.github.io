@@ -1,0 +1,43 @@
+*{
+    font-family: Roboto;
+    background-color: #00509D;
+}
+.nome-completo{
+    font-family: sans-serif;
+    background-color: #FDC500;
+    color:#00296B;
+    text-align: center;
+}
+#foto{
+    width: 200px;
+}
+.sobre-mim p, .sobre-mim p *{
+    font-family: Tahoma, sans-serif;
+    background-color: #FDC500;
+    color: #00296B;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 100px;
+}
+.texto-sobre{
+    display: inline-block;
+}
+.local {
+    font-style: italic;
+    color:#FFD500;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+.habilidades *{
+    color: #FFD500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.habilidades h1{
+    background-color: #00296B;
+    padding: 10px;
+    border-radius: 90px;
+    width: 350px;
+    text-align: center;
+}
